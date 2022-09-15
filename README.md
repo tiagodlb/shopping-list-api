@@ -5,7 +5,7 @@
 <br />
 
 <div align="center">
-   <img src="./info/cart.png" alt="shopping-list-api Logo" width="110"/>
+   <img src="./info/cart.png" alt="shopping-list-api Logo" width="150"/>
 </p>
   </a>
 
