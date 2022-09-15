@@ -6,7 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/tiagodlb/shopping-list-api>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Logo" width="90">
+   <img src="./info/cart.png"/>
+</p>
   </a>
 
   <h3>Built With</h3>
