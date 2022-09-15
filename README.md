@@ -139,6 +139,7 @@ In this section, you will find the example API's endpoints and their respective 
 
 ```json
 {
+  //empty
 }
 ```
 
@@ -165,6 +166,7 @@ In this section, you will find the example API's endpoints and their respective 
 
 ```json
 {
+  //empty
 }
 ```
 
