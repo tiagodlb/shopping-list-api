@@ -5,7 +5,6 @@
 <br />
 
 <div align="center">
-  <a href="https://github.com/tiagodlb/shopping-list-api>
    <img src="./info/cart.png"/>
 </p>
   </a>
