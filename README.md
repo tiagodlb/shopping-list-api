@@ -38,14 +38,11 @@
 # Table of Contents
 
 - [Installation and Usage](#installation-and-usage)
-- [Error Handling and Logging](#error-handling-and-logging)
-  - [AppError](#--apperror)
-  - [AppLog](#--applog)
 - [Middlewares](#middlewares)
 - [API Reference](#api-reference)
   - [Models](#models)
   - [Routes](#routes)
-  - [Authentication](#authentication)
+  - [Items](#items)
 
 <!-- Installation and Usage -->
 
