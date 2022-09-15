@@ -23,16 +23,6 @@
 </div>
 
 <br />
-
-<div align="center">
-  <a href="https://github.com/NivaldoFarias/typescript-project-template/releases/tag/v1.0.0" alt="Current template version badge">
-    <img src="https://img.shields.io/github/package-json/v/NivaldoFarias/typescript-project-template?style=flat-square" />
-  </a>
-  <a href="https://github.com/NivaldoFarias/typescript-project-template/releases/tag/v1.0.0" alt="Current template version badge">
-    <img src="https://img.shields.io/badge/license-MIT-%23A8D1FF?style=flat-square" />
-  </a>
-</div>
-
 <!-- Table of Contents -->
 
 # Table of Contents
